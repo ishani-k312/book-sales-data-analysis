@@ -17,7 +17,7 @@ This project analyzes book sales data to uncover trends in publishing, author pe
 | Chart Type | Analysis |
 | --- | --- |
 | **Histogram** | Distribution of publishing years |
-| **Bar Chart** | Books per genre, Top authors by gross sales |
+| **Bar Chart** | Books per genre, Top 10 Authors of highest gross sales |
 | **Scatter Plot** | Sale price vs units sold, Avg rating vs rating count |
 | **Box Plot** | Rating count by genre, Units sold by author rating |
 | **Pie Chart** | Language code distribution |
