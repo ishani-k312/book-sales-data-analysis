@@ -1,5 +1,4 @@
 ## Project Description
-[[Open In Colab][([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishani-k312/book-sales-data-analysis/blob/main/book_sales_data_analysis_portfolio.ipynb](https://github.com/ishani-k312/book-sales-data-analysis/blob/main/book%20sales_data%20analysis%20portfolio.ipynb](https://colab.research.google.com/github/ishani-k312/book-sales-data-analysis/blob/main/book%20sales_data%20analysis%20portfolio.ipynb)))
 This project analyzes book sales data to uncover trends in publishing, author performance, publisher revenue, and reader preferences. Using Python with Pandas and Matplotlib, I performed data cleaning, statistical analysis, and created 13 visualizations to extract actionable insights.
 
 ## Methodology
