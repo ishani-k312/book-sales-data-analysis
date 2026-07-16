@@ -2,7 +2,8 @@
 This project analyzes book sales data to uncover trends in publishing, author performance, publisher revenue, and reader preferences. Using Python with Pandas and Matplotlib, I performed data cleaning, statistical analysis, and created 13 visualizations to extract actionable insights.
 
 ## Dataset
--<a href = "
+-<a href = "https://github.com/ishani-k312/book-sales-data-analysis/blob/main/Books_Data_Clean.csv"</a>
+
 
 
 ## Methodology
