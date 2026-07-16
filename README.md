@@ -29,6 +29,12 @@ This project analyzes book sales data to uncover trends in publishing, author pe
 | **Line Chart** | Publishing year vs units sold trend |
 | **Pivot Table** | Publisher vs Revenue analysis |
 
+
+<img width="608" height="455" alt="Total units sold over the years" src="https://github.com/user-attachments/assets/7855a230-17e7-423b-b0af-492f8da92bac" />
+
+
+
+
 ## Key Insights
 1. Identified peak publishing years and sales trends over time using line chart
 2. Determined top-performing publishers and authors by revenue using groupby + pivot
