@@ -30,7 +30,23 @@ This project analyzes book sales data to uncover trends in publishing, author pe
 | **Pivot Table** | Publisher vs Revenue analysis |
 
 
-<img width="608" height="455" alt="Total units sold over the years" src="https://github.com/user-attachments/assets/7855a230-17e7-423b-b0af-492f8da92bac" />
+<img width="582" height="455" alt="Distibution of the Publishing Year" src="https://github.com/user-attachments/assets/4689fa67-2f06-401f-81aa-74d9bb48db28" />
+<img width="389" height="411" alt="Distribution of languages" src="https://github.com/user-attachments/assets/c00631a7-f84a-4dba-acc6-39fad1de573a" />
+<img width="571" height="528" alt="Number of books in each year" src="https://github.com/user-attachments/assets/46a257ab-f952-4bd8-bd4b-93b24a0701af" />
+<img width="597" height="455" alt="Number of ratings for each genre" src="https://github.com/user-attachments/assets/2d19b843-0269-45e4-860c-8fa7e50c70c2" />
+<img width="589" height="455" alt="Relationship between Author Rating   units sold" src="https://github.com/user-attachments/assets/78823287-ece9-43d9-8d30-03dadf73314c" />
+<img width="616" height="455" alt="Relationship between Book average rating   Book ratings count" src="https://github.com/user-attachments/assets/28a21371-b347-47ed-aa84-ceeea42d1cd6" />
+<img width="590" height="455" alt="Relationship between Sales Price and Unit Sold" src="https://github.com/user-attachments/assets/75e3784f-7dbf-488b-8270-e50935576e43" />
+<img width="589" height="626" alt="Top 10 Authors of highest gross sales" src="https://github.com/user-attachments/assets/397e9e15-9722-471a-bee4-53a38401cf71" />
+<img width="608" height="455" alt="Total units sold over the years" src="https://github.com/user-attachments/assets/128946f7-fd9b-4ac1-b908-d1b7442c052c" />
+
+
+
+
+
+
+
+
 
 
 
