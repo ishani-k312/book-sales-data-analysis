@@ -31,7 +31,7 @@ This project analyzes book sales data to uncover trends in publishing, author pe
 
 
 <img width="582" height="455" alt="Distibution of the Publishing Year" src="https://github.com/user-attachments/assets/4689fa67-2f06-401f-81aa-74d9bb48db28" />
-<img width="582" height="455" alt="Distribution of languages" src="https://github.com/user-attachments/assets/c00631a7-f84a-4dba-acc6-39fad1de573a" />
+<img width="389" height="411" alt="Distribution of languages" src="https://github.com/user-attachments/assets/c00631a7-f84a-4dba-acc6-39fad1de573a" />
 <img width="571" height="528" alt="Number of books in each year" src="https://github.com/user-attachments/assets/46a257ab-f952-4bd8-bd4b-93b24a0701af" />
 <img width="597" height="455" alt="Number of ratings for each genre" src="https://github.com/user-attachments/assets/2d19b843-0269-45e4-860c-8fa7e50c70c2" />
 <img width="589" height="455" alt="Relationship between Author Rating   units sold" src="https://github.com/user-attachments/assets/78823287-ece9-43d9-8d30-03dadf73314c" />
